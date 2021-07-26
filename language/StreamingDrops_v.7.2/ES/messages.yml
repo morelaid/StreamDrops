@@ -1,0 +1,34 @@
+WrongTwitchConnection: '&cPor favor, introduce solamente tu &4nombre de Twitch &c(sin la URL).'
+NoPermission: '&c¡No tienes permiso para usar este comando!'
+Reload: '&2La configuración se ha recargado correctamente.'
+ActionFailed: '&cLa acción ejecutada no se ha podido completar satisfactoriamente.
+  Por favor, mira en la consola para obtener más detalles.'
+OnlyForPlayers: '&c¡este comando no se puede ejecutar en consola!'
+PlayerSync: '&2Tu cuenta se ha enlazado con tu canal de Twitch.'
+AddStreamer: '&2El usuario se ha añadido a la lista.'
+StreamerExists: '&c¡El usuario ya está en la lista!'
+RemoveStreamer: '&eEl usuario se ha eliminado de la lista.'
+PlayerNotFound: '&c¡No se encuentra el jugador!'
+DropsText: '&eObtén recompensas por ver los directos de twitch.tv ► Usa ''&6/online&e.''
+  para ver el directo actual.'
+NoStreamersLive: '&9¡Actualmente no hay nadie en directo en twitch.tv y por tanto
+  no tienes recompensas que recibir!'
+StreamersLive: '&eLos siguientes streamers están ahora en directo:'
+CurrentTimerText: ¡Obtendrás la siguiente recompensa en %minutes% minutos!
+DropsAdded: '&2¡Se ha añadido una nueva recompensa!'
+DropsByStreamer: '&2Los seguidores del directo recibirán recompensas aleatorias.'
+InvalidTwitchChannel: '&c¡No se puede usar este nombre de twitch. Por favor, ponte
+  en contacto con el administrador si tienes problemas!'
+DropsAmount: '&eYa has recibido la recompensa &6%dropsamount% &epor visualizar el directo.'
+DropsOnlyForFollower: '&c¡Solo los seguidores de Twitch pueden recibir recompensas!'
+Loading: Searching...
+StreamerLiveBroadcast: '&eEl streamer &2%streamer% &6está ahora en directo...'
+TopDropsHeader: '&f======== &2Top %amount% Recompensas &f========'
+TwitchCheck: '&eSe ha encontrado a &6%streamer%&e.'
+TwitchCheckNotFound: '&e¡No eres reconocido como streamer! Por favor, comprueba de
+  nuevo el enlace.'
+Discord:
+  Title: ¡%streamer% está trasmitiendo en directo!
+  Description: El streamer %streamer% está transmitiendo en directo...
+  AdditionalText: 'Participa en el directo para recibir recompensas:'
+  ContentMessage: ''
